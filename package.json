@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-works",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <h1 align=\"center\">Nodejs ile Backend Patikası</h1>\r </div>",
+  "main": "fs-module-examples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
+}
